@@ -1,18 +1,24 @@
-## Hi there 👋
+## Hi there, I'm Shripurna 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=tacocat0200)
+<!--![Profile Views](https://komarev.com/ghpvc/?username=tacocat0200) -->
 
-<!--
-**tacocat0200/tacocat0200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final year undergrad double majoring in CS and Biology 
 
-Here are some ideas to get you started:
+🔬 Research Interests: Computational Biology, Machine Learning, Artificial Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----
+
+## About Me ℹ️
+
+- 🎓 MIT PhD candidate in AI and Computational Biology
+- 💼 Currently working on [your current project or research focus]
+- 🌱 Always learning and exploring new technologies
+- 📝 Check out my latest articles on [Medium](https://medium.com/@your-medium-username)
+
+## Connect with Me 🌐
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shripurna-gangopadhyay/)
+[![Medium](https://img.shields.io/badge/Medium-Follow-green)](https://medium.com/@your-medium-username)
+
+
+ 
