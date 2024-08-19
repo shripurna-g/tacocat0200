@@ -7,7 +7,7 @@
 ## About Me
 
 - 🎓 final year undergrad double majoring in CS and Biology 
-- 💼 Currently working on MLOps, and Ancient Omics pipelines
+- 💼 Currently working on MLOps, Ancient Omics pipelines
 - 🌱 Always learning and exploring new technologies
 - 📝 Check out my latest articles on [Medium](https://medium.com/@f20200603)
 
