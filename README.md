@@ -10,7 +10,7 @@
 - 💼 Currently working on MLOps, Big Data, Full stack pipelines
 - 🌱 Always exploring new technologies
 - 📝 Check out my latest articles at [Medium](https://medium.com/@f20200603)
-
+---
 I am a passionate data science and big data enthusiast with a strong focus on AI safety and explainability, I work on developing scalable, data-centric solutions leveraging large datasets for strategic decision-making anf problem solving
 ---
 
