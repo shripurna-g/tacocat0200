@@ -2,7 +2,7 @@
 ----
 
 <!--![Profile Views](https://komarev.com/ghpvc/?username=tacocat0200) -->
-I’m a passionate data science and big data enthusiast with a strong focus on AI safety and explainability, I work on developing scalable, data-centric solutions leveraging large datasets for strategic decision-making anf problem solving
+###### I’m a passionate data science and big data enthusiast with a strong focus on AI safety and explainability, I work on developing scalable, data-centric solutions leveraging large datasets for strategic decision-making anf problem solving
 ---
 
 ## About Me
