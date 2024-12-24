@@ -7,7 +7,7 @@
 ## About Me
 
 - 🎓 final year CS undergrad 
-- 💼 Currently working on MLOps, Big Data, Full stack pipelines
+- 💼 Currently working on MLOps and Data pipelines
 - 🌱 Always exploring new technologies
 - 📝 Check out my latest articles at [Medium](https://medium.com/@f20200603)
 
