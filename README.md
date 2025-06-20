@@ -11,7 +11,22 @@
 - 🌱 Always exploring new technologies
 - 📝 Check out my latest articles at [Medium](https://medium.com/@f20200603)
 
-I am a passionate data science and big data enthusiast with a strong focus on AI safety and explainability, I work on developing scalable, data-centric solutions leveraging large datasets for strategic decision-making and problem solving.
+Hi, I’m Shripurna 👋  
+
+I'm a Machine Learning Engineer who designs clean, scalable systems for high-noise, niche problems.
+
+My core interest lies in building **reliable, graceful systems** for domains where definitions are fuzzy, data is messy, and stakes are high. That curiosity has led me across problems in:
+- disease prediction & biomarker discovery  
+- drought-resistant crop development  
+- telomere biology & ancient DNA  
+- fraud detection & algorithm design
+
+🔹 I care about making complex ideas **deployable**, **maintainable**, and **elegant**  
+🔹 My tools include: 
+🔹 Currently: Intern @ Nielsen (multimodal segmentation for ad-intel) | upcoming Data Scientist @ Commonwealth Bank of Australia (fraud detection at scale)  
+<!-- Also: Co-authoring a metagenomics paper and contributing to open source-->
+
+If you're working on strange problems that need smart systems - let’s talk.
 
 ---
 
