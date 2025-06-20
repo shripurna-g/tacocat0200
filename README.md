@@ -21,8 +21,8 @@ My core interest lies in building **reliable, graceful systems** for domains whe
 - telomere biology & ancient DNA  
 - fraud detection & algorithm design
 
-🔹 I care about making complex ideas **deployable**, **maintainable**, and **elegant**  
-🔹 My tools include: 
+🔹 I care about design principles and making complex ideas **deployable**, **maintainable**, and **elegant**  
+🔹 My tools include: Python, CUDA, Shell, Bash, Git workflows, AWS
 🔹 Currently: Intern @ Nielsen (multimodal segmentation for ad-intel) | upcoming Data Scientist @ Commonwealth Bank of Australia (fraud detection at scale)  
 <!-- Also: Co-authoring a metagenomics paper and contributing to open source-->
 
